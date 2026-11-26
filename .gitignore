@@ -1,0 +1,9 @@
+# Machine-local overrides (never commit personal binary paths or proxies)
+local.config.json
+**/local.config.json
+
+# OS & temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log

@@ -1,0 +1,18 @@
+{
+  "name": "codex-subagent",
+  "displayName": "Codex Subagent",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "description": "Use the local OpenAI Codex CLI (codex exec) as an isolated, sandboxed subagent and skill across Antigravity, Codex, and DeepSeek Harness on Windows.",
+  "author": {
+    "name": "minyun-code (wei)",
+    "url": "https://github.com/minyun-code"
+  },
+  "homepage": "https://github.com/minyun-code/codex-subagent#readme",
+  "repository": "https://github.com/minyun-code/codex-subagent",
+  "suggestedPrompts": [
+    "让 codex-subagent 以只读模式深度审查当前项目近期改动的并发与错误处理风险",
+    "把当前工作区的重构任务委派给 codex-subagent 实现并运行测试验证",
+    "使用 codex-subagent 继续上次会话并补充边界条件单元测试"
+  ]
+}
